@@ -1,3 +1,4 @@
+#Code to check whether a number is positive,negative or zero with exceptional handling.
 num = input()
 try:
     n = int(num)
